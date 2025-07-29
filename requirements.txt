@@ -3,4 +3,5 @@ opencv-python
 numpy
 Pillow
 requests
-pipecat
+groq
+python-dotenv
